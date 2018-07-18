@@ -1,7 +1,7 @@
 from cloudAMQP_client import CloudAMQPClient
 
 # REPLACE URL WITH YOUR OWN
-CLOUDAMQP_URL = 'amqp://cphghnay:jUof0j2MyrgneQ1kIShfLy-xszL-4Aah@zebra.rmq.cloudamqp.com/cphghnay'
+CLOUDAMQP_URL = '///'
 QUEUE_NAME = 'dataFetcherTaskQueue'
 
 # Initialize a client
